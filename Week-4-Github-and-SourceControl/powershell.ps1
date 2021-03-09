@@ -1,0 +1,1 @@
+get-AzResourceGHroup -Name 'cloudskillsbootcamp'
